@@ -7,9 +7,10 @@ https://api.weather.gov/gridpoints/LOT/73,76/forecast
 
 ## 📸 Screenshot
 
-![Chicago Forecast Screenshot](screenshot.png)
 
-## 🚀 How to Run
+![Chicago Forecast Screenshot](src/screenshot.png)
+
+## How to Run
 ```bash
 npm install
 npm start
